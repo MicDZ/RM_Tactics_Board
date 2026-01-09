@@ -203,8 +203,8 @@
 
 <script>
 const MAP_IMAGES = {
-  RMUC: new URL('../assets/26UC.png', import.meta.url).href,
-  RMUL: new URL('../assets/26UL.png', import.meta.url).href,
+  RMUC: new URL('../assets/26UC.jpg', import.meta.url).href,
+  RMUL: new URL('../assets/26UL.jpg', import.meta.url).href,
 };
 
 const clonePlayers = (list) => list.map((player) => ({ ...player }));
