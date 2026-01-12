@@ -1,5 +1,5 @@
 <template>
-  <HelloWorld />
+  <HelloRM />
 </template>
 
 <script setup>
